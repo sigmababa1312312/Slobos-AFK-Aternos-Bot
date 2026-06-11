@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "10ASMPP.aternos.me
-",
+    "ip": "10ASMPP.aternos.me",
     "port": 33300,
     "version": "",
     "try-creative": false
